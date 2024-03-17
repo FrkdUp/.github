@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/101402577/231744287-29c43d19-c913-4e47-8268-9bd8c35f639e.png" width="200" height="200">
 </div>
 
-# RandSofts
-Welcome to RandSofts, an open source organization dedicated to creating random software for the benefit of the community.
+# RandSoft Interactive
+Welcome to RandSoft Interactive, an open source organization dedicated to creating random software for the benefit of the community.
 
 # Purpose
 Our goal is to promote innovation and collaboration in the world of software development, while providing opportunities for individuals to contribute to and learn from our projects.
