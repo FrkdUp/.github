@@ -27,4 +27,4 @@ We'll review your contribution and get back to you as soon as possible.
 # Contact Us
 If you have any questions or suggestions, please feel free to open a github issue in this repository.
 
-Thank you for your interest in RandSofts!
+Thank you for your interest in RandSoft Interactive!
